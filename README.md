@@ -47,15 +47,6 @@ My goal isn't just to learn, but to *understand*—I'm on a journey to master th
 
 <br/>
 
-<h3 align="left">My GitHub Stats:</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats-msellisaa-projects.vercel.app/api?username=msellisaa&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="msellisaa GitHub Stats" />
-  <br/><br/>
-  <img align="center" src="https://github-readme-stats-msellisaa-projects.vercel.app/api/top-langs?username=msellisaa&layout=compact&locale=en&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<br/>
-
 
 ### Language & Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,php,js,ts,python,jquery,angular,vue,nodejs,react,css,bootstrap,laravel,wordpress,mysql,postgres,sqlite,gcp,git,github,gitlab,stackoverflow,aws,azure)](https://skillicons.dev)
