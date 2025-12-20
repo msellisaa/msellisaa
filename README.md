@@ -1,4 +1,4 @@
-### Hi there, I'm Michelle Isaura Aishaa! 👋
+### Hi there 👋, I'm Michelle Isaura Aishaa
 
 I'm a passionate **Information Technology** student.
 
